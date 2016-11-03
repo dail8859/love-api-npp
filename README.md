@@ -6,7 +6,7 @@
 
 ## Usage
 
-1. Download the lua_love.xml from the [Release](https://github.com/dail8859/love-api-npp/releases) tab, and place it in Notepad++'s `plugins/APIs/` directory.
+1. Download the lua.xml file from the [Release](https://github.com/dail8859/love-api-npp/releases) page, and place it in Notepad++'s `plugins/APIs/` directory.
 1. In Notepad++, go to `Settings > Preferences` in the menu.
 1. Select the `Auto-Completion` tab.
 1. Make sure `Enable auto-completion on each input` is checked.
