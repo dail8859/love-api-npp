@@ -12,3 +12,7 @@
 1. Make sure `Enable auto-completion on each input` is checked.
 1. Set it to `Function completion`.
 1. And check `Function parameters hint on input`.
+
+---
+
+![calltip](/img/calltip.png)
